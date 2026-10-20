@@ -1,0 +1,6 @@
+nome = input("O que é, O que é? Quanto mais voce tira, maior fica? ")
+
+if nome.lower() == "buraco":
+    print("Acertou! (la ele kkkkk)")
+else:
+    print("Errou! A resposta é: buraco (la elekkkk) ")
